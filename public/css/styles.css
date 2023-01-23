@@ -5,6 +5,12 @@
     margin: 0 auto;
 }
 
+nav {
+    color: #fff;
+    background-color: #545454;
+}
+
+
 .user-image-size {
 
     height: 56px;
@@ -14,7 +20,7 @@
 
 .main-body {
 
-    background-color: #F28487;
+    background-color: #ffffff;
 
     color: white;
 
@@ -30,6 +36,6 @@
 
 .click-me-button {
 
-    background-color: #EE6E73;
+    background-color: #ffffff;
     margin-top: 50px;
 }
