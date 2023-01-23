@@ -47,7 +47,6 @@ const createCollection = (collectionName) => {
 }
 
 const cardList = [
-
     {
 
         title: "Kitten 2",
