@@ -29,8 +29,7 @@ function drawLocationOnMap(position) {
   //get latitude/longitude from Position object
   var lat = position.coords.latitude;
   var lon = position.coords.longitude;
-  var msg = "You are here: Latitude "+lat+", Longitude "+lon;
-  //mark current location on Google map
+  var msg = "Delivery Location";
   var pos = new google.maps.LatLng(lat, lon);
   var infoBox = new google.maps.InfoWindow({map: map, 
     position:pos, 
