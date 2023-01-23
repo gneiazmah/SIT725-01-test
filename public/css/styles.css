@@ -39,3 +39,23 @@ nav {
     background-color: #ffffff;
     margin-top: 50px;
 }
+
+div#map {
+    width:650px; 
+    height: 600px;
+    margin-top: 80px;
+  }
+
+  .btn {
+    background-color: #545454;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .btn:hover{
+    background-color: #757575;
+  }
